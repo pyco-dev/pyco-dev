@@ -25,7 +25,7 @@ the main way to contact me is through discord, my username is `pyco_`!
 
 ## My Operating System(s)
 
-<div style="display: flex;">
-<img  src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width=75px style="margin-right: 100px"></img>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-windows-221-1175066.png" width=100></img>
-</div>
+### Primary OS: 
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+### Dev OS: 
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
