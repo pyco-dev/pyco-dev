@@ -1,9 +1,8 @@
 
-# Pyco | React/Python Developer.
-
+# Pyco | Developer
   
 
-Hello! Welcome to my profile, my name is Pyco and im 15 currently ([check when my birthday is here!](https://5xstkp.csb.app/)).
+Hello! Welcome to my profile, my name is Pyco and im 16 currently ([check when my birthday is here!](https://5xstkp.csb.app/)).
 
   
 
@@ -19,7 +18,7 @@ the main way to contact me is through discord, my username is `pyco_`!
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,python,cpp&perline=4)](https://skillicons.dev)
 
   
 
