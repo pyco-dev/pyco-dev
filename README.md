@@ -2,7 +2,7 @@
 # Pyco | Developer
   
 
-Hello! Welcome to my profile, my name is Pyco and im 16 currently ([check when my birthday is here!](https://5xstkp.csb.app/)).
+Hello! Welcome to my profile, my name is Pyco and im 16 currently.
 
   
 
