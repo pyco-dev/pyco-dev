@@ -4,10 +4,6 @@
 
 Hello! Welcome to my profile, my name is Pyco and im 16 currently.
 
-  
-
-The site above that shows when my birthday is, is an example of a react project I made. It uses a useEffect and useReducer along with date management and conditional rendering to make it work and you can find the source code [here](https://codesandbox.io/p/sandbox/birthday-timer-5xstkp) and if you find any bugs then please let me know! <span>😁</span>
-
 <br>
 
 ## Contact me.
